@@ -27,7 +27,7 @@
   },
   "devDependencies": {
     "babel": "5.8.23",
-    "react": "0.14.0",
-    "react-router": "1.0.0-rc3"
+    "react": "15.4.0",
+    "react-router": "3.0.5"
   }
 }
